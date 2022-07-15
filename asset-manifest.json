@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/tortoise/static/css/main.39cc1b23.css",
+    "main.js": "/tortoise/static/js/main.0a77cedf.js",
+    "index.html": "/tortoise/index.html",
+    "main.39cc1b23.css.map": "/tortoise/static/css/main.39cc1b23.css.map",
+    "main.0a77cedf.js.map": "/tortoise/static/js/main.0a77cedf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.39cc1b23.css",
+    "static/js/main.0a77cedf.js"
+  ]
+}
